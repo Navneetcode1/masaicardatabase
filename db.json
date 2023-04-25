@@ -1,9 +1,122 @@
+
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 2,
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    },
+    {
+      "brand": "Tata",
+      "type": "Automated",
+      "year": "2018",
+      "kms": "123",
+      "description": "12345",
+      "price": "123445",
+      "id": 3
+    },
+    {
+      "brand": "Tata",
+      "type": "Manual",
+      "year": "2019",
+      "kms": "",
+      "description": "",
+      "price": "",
+      "id": 4
+    },
+    {
+      "brand": "Tata",
+      "type": "Manual",
+      "year": "2019",
+      "kms": "123",
+      "description": "",
+      "price": "",
+      "id": 5
+    },
+    {
+      "brand": "Tata",
+      "type": "Manual",
+      "year": "2019",
+      "kms": "",
+      "description": "",
+      "price": "",
+      "id": 6
+    },
+    {
+      "brand": "Tata",
+      "type": "Manual",
+      "year": "2019",
+      "kms": "",
+      "description": "",
+      "price": "",
+      "id": 7
+    },
+    {
+      "brand": "Tata",
+      "type": "Manual",
+      "year": "2019",
+      "kms": "",
+      "description": "",
+      "price": "",
+      "id": 8
+    },
+    {
+      "brand": "Tata",
+      "type": "Manual",
+      "year": "2019",
+      "kms": "",
+      "description": "",
+      "price": "",
+      "id": 9
+    },
+    {
+      "brand": "Tata",
+      "type": "Manual",
+      "year": "2019",
+      "kms": "",
+      "description": "",
+      "price": "",
+      "id": 10
+    },
+    {
+      "brand": "Tata",
+      "type": "Manual",
+      "year": "2019",
+      "kms": "",
+      "description": "",
+      "price": "1000",
+      "id": 11
+    },
+    {
+      "brand": "Maruti",
+      "type": "Automated",
+      "year": "2017",
+      "kms": "1200",
+      "description": "maruti",
+      "price": "1800",
+      "id": 12
+    },
+    {
+      "brand": "Honda",
+      "type": "Manual",
+      "year": "2019",
+      "kms": "",
+      "description": "",
+      "price": "",
+      "id": 13
+    }
+  ]
 }
